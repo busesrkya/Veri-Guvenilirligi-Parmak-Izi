@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+reports/*.json
+reports/*.csv
+data/synthetic_error_reference.csv
