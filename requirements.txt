@@ -1,0 +1,11 @@
+pandas>=2.2,<3.0
+numpy>=2.0,<3.0
+scipy>=1.14,<2.0
+scikit-learn>=1.5,<2.0
+matplotlib>=3.9,<4.0
+seaborn>=0.13,<1.0
+plotly>=5.24,<7.0
+pyodbc>=5.1,<6.0
+python-dotenv>=1.0,<2.0
+streamlit>=1.39,<2.0
+pytest>=8.3,<10.0
